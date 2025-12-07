@@ -1,0 +1,3 @@
+this is from file 2 
+I want to append this to first file
+okyys
