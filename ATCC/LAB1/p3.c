@@ -9,6 +9,7 @@ void main(){
         printf("File not found");
         return;
     }
+    //check
     while(fsanf(fp, "%c", &ch)==1){
         if(ch == ' ' || ch == '\n' || ch == '\t'){
             //peek the next character
