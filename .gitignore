@@ -1,0 +1,86 @@
+############################
+# OS / SYSTEM FILES
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# EDITORS / IDEs
+############################
+.vscode/
+.idea/
+*.swp
+*.swo
+
+############################
+# PYTHON (ML / DL)
+############################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+.env/
+env/
+*/venv/
+*/.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+############################
+# MACHINE LEARNING ARTIFACTS
+############################
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.onnx
+
+############################
+# DATASETS (keep samples only)
+############################
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.zip
+
+############################
+# C / C++ / OS LABS
+############################
+*.o
+*.out
+*.exe
+a.out
+
+############################
+# JAVA (ATCC / COMPILER)
+############################
+*.class
+*.jar
+
+############################
+# LOGS & TEMP FILES
+############################
+*.log
+*.tmp
+
+############################
+# PDF / DOC AUTO-GENERATED
+############################
+*.aux
+*.toc
+*.synctex.gz
+
+############################
+# NODE (if any frontend tools)
+############################
+node_modules/
